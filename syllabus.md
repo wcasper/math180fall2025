@@ -105,10 +105,10 @@ Three possible ways of accomplishing this (in order of preference) are
 
 **Seminars:**
 As part of this class, you will be expected to attend a seminars within the department at least three times throughout the semester and create a discussion post about what you learned, and more importantly, what questions it made you ask.  Examples of department seminars include
-* Problem Solving Seminar: this seminar is about solving math puzzles and other contest problems, and preparing for a legendary math competition called the Putnam Exam
-* Algebra/Geometry/Topology Seminar: this seminar focuses on current research in algebra, geometry, and topology by working mathematicians
-* Analysis Seminar: this seminar focuses on current research in analysis by working mathematicians
-* Applied Mathematics Seminar: this seminar focuses on current research in applied mathematics by working mathematicians
+* **Problem Solving Seminar**: this seminar is about solving math puzzles and other contest problems, and preparing for a legendary math competition called the Putnam Exam
+* **Pure Math Seminar**: this seminar focuses on current research in algebra, geometry, and topology by working mathematicians
+* **Applied Math Seminar**: this seminar focuses on current research in applied mathematics by working mathematicians
+* **Math Ed Seminar**: this seminar focuses on research into teaching mathematics
 
 If you are unable to attend enough seminars due to things like scheduling issues, a supplementary activity may be available upon request.
 This request should happen as early as possible, and in particular requests occuring in the last few weeks of class which appear to be about procrastination will be viewed disfavorably.
