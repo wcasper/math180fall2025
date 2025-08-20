@@ -6,24 +6,16 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Math 350 Advanced Calculus
+title: Math 180 Strategies of Problem Solving
 ---
 
 **Instructor:** Dr. W. Riley Casper [(About your instructor)](instructor)
 
 **Email:** wcasper@fullerton.edu
 
-**Course meetings:** Monday and Wednesday 4:00PM-5:50PM
-
 **Office hours:** To be announced
 
-**Syllabus:** <a target="_parent" href="extras/syllabus.html">Course syllabus (link)</a>
-
-**First steps**
-
-Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the [Orientation Module (link)](https://csufullerton.instructure.com/courses/3457313/modules/9061521).
-
-Please reach out as soon as possible if you have any questions or concerns.
+**Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 
 ***
 
