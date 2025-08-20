@@ -19,5 +19,5 @@ title: Math 180 Strategies of Problem Solving
 
 ***
 
-## New posts!
+## Past lectures
 
