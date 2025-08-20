@@ -13,25 +13,25 @@ permalink: /extras/syllabus
 
 **Office hourse:** TBA.  Additional office hours are always available by request.
 
-**Course website:** we will use Canvas website (Spring 2023 MATH 350-2 18781), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math350spring2024">Github Pages site (link)</a> which you may find more convenient for pulling material.
+**Course website:** the main course website will be <a target="_parent" href="https://wcasper.github.io/math350spring2024">Github Pages site (link)</a>, but we will also use the Canvas website (Fall 2025 MATH 180-05 19502) for submitting assignments and maintaining grades
 
 ## Course meeting information
-* Section: 02
-* Course ID: 18781
-* Time: MW 12:00PM-01:50PM
+* Section: 05
+* Course ID: 19502
+* Time: MW 4:00PM-05:50PM
 * Meeting Dates: 08/26/2024-12/13/2024
-* Location: MH 476
+* Location: MH 553
 
 ## Course catalog description
-Development of the theoretical foundations of calculus with an emphasis on mathematical rigor and formal proof. Algebraic and topological properties of the real numbers; limits of sequences and functions; continuity, differentiation and integration of functions of one variable; infinite series.
+Fundamentals of problem solving via contest problems, logic puzzles, games, riddles, paradoxes. Mathematical content may include symbolic logic, sets, mappings, cardinality, infinite sets, graph theory, modular arithmetic, probability, combinatorics.
 
-**Course prerequisites:** MATH 250B and MATH 280 with a "C" (2.0) or better.
+**Course prerequisites:** Requires three years of high school mathematics, including two years of algebra and one year of geometry.
 
 ## Course Material
 ### Required Textbooks
 The textbook for this course is:
 
-1. *Mathematical Analysis* by Apostol 2nd Ed.
+1. *Gallery of the Infinite* by Schwartz 2nd Ed.
 
 ### Required technology
 For this course, you will need to have access to technology that will allow you to join Zoom office hours, and view and upload assignments on Canvas.
@@ -50,8 +50,11 @@ You can get free and low-cost software for being an active CUSF student.  Softwa
 ### Grading scheme
 
 * Homework: 25%
-* Midterm Exams: 3 at 15% each
-* Final Exam: 30%
+* Pre-class assignments: 15%
+* In-class assignments: 25%
+* Seminars / research: 15%
+* Final Exam: 20%
+
 
 **Caution!** Do your homework!  It is worth a considerable percentage of your grade.  It is possible to pass every exam in this class and still fail if you don't bother to turn in your homework.
 
@@ -84,70 +87,46 @@ Allow me 24 hours to respond to your email before sending a follow-up email. My 
 If you miss any classes during the first week without notifying the instructor or the departmental office within 24 hours of the meeting, you may be dropped from the course.
 
 Attendance and class participation are important components for success in this course. We will work through assigned in-class problems during our meetings.
+Due to the high amount of group work, discussion, and in-class participation, attendance is **mandatory** and you will be graded based on daily attendance and participation.
 
-You will be expected to work in groups on in-class assignments. Be respectful, and make sure all team members have completed the task. The teamwork grade will be factored into the participation grade.
+You will be expected to work in groups on in-class assignments. Be respectful, and make sure all team members have completed the task.
 
-You may also be asked to post in the Discussion Board. Before doing so, review the Forum Rules on our Canvas course site.
 
 **Assigned Readings**
-You will be assigned a few sections of material to read prior to most class meetings. These are crucial for your understanding of the material in lectures and participation in in class.
+You will be assigned a few sections of material to read prior to most class meetings. These are crucial for your understanding of the material in lectures and participation in in-class assignments.
 
 
 **Homework**
-For homework, you will need to provide a written solution which will be uploaded with any relevant code as a PDF document.  Three possible ways of accomplishing this (in order of decreasing preference) are
+Weekly homework assignments should be uploaded to Canvas in a PDF format.
+Three possible ways of accomplishing this (in order of preference) are
 * typing your solution in LaTeX on Overleaf and then compiling and downloading the resultant pdf.
 * writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
 * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
-Homework will also involve some online Canvas quizzes that will help you assess your understanding of different topics.  These will not have a time limit and can be done at home, but should be completed individually.
+
+**Seminars:**
+As part of this class, you will be expected to attend a seminars within the department at least three times throughout the semester and create a discussion post about what you learned, and more importantly, what questions it made you ask.  Examples of department seminars include
+* Problem Solving Seminar: this seminar is about solving math puzzles and other contest problems, and preparing for a legendary math competition called the Putnam Exam
+* Algebra/Geometry/Topology Seminar: this seminar focuses on current research in algebra, geometry, and topology by working mathematicians
+* Analysis Seminar: this seminar focuses on current research in analysis by working mathematicians
+* Applied Mathematics Seminar: this seminar focuses on current research in applied mathematics by working mathematicians
+
+If you are unable to attend enough seminars due to things like scheduling issues, a supplementary activity may be available upon request.
+This request should happen as early as possible, and in particular requests occuring in the last few weeks of class which appear to be about procrastination will be viewed disfavorably.
+
+**Research:**
+As part of this class, you will be responsible for conducting and presenting a **research project** where you try to answer some question that nobody knows the answer to yet.  It can be inspired by a project we do in class, or by some of your interests outside of class.  This project will culminate in the creation of a research poster that you will use to present your work in a class-wide poster session.
+
+___
+
 
 ## Exams
-Exams will take place during class at the times stated below. You will come to class and take the exam during the specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
-
-If you have an accommodation from Disability Support Services (such as time-and-a-half), it is your responsibility to coordinate with the instructor before each exam.
-
-**Midterm Exams**
-There will be three midterm exams, each lasting 1 hour 50 minutes.
-Each midterm will be worth 15\% of your final grade.
-Midterms will be held during class time on the following dates:
-* Wednesday, September 25, 2024
-* Wednesday, October 23, 2024
-* Wednesday, November 20, 2024
-
 **Final Exam**
-The final exam will be cumulative and will account for 30\% of your grade.
-It will be held
-* Monday, December 16 from 1PM-2:50PM
+The final exam will be cumulative with both written and computational parts, and will account for 20% of your grade.
 
-## Important academic calendar dates
-**August:**
-* 23rd: Last day to register without paying $25 Registration Late Fee
-  Last day to receive full refund of resident and non-resident mandatory fees
-* 24th: First day of class
+* The Final Exam  is **5-7PM** on **Wednesday, December 17**
 
-**September:**
-* 1st: Last day students are enrolled from the waitlist
-  Last day to apply for graduation through the Student Homepage for Fall 2024 bachelor's degree candidates.
-* 10th:	Last day to enroll with a $25 late registration fee.
-* 10th: Last day to add/drop classes without a grade of “W” through Student Homepage
- All permits issued expire at midnight
- Last day to declare audit and change grading basis
-* 6th: Add Classes-Submit the online Late Add Request with a $20 Late Add Fee
- Withdrawal Classes-Submit the online Withdrawal Request with “W” grade
-* 23rd: Census Date
- Last day to submit a Late Add Request with $20 Late Add Fee
- Last day for Excess Unit Approval for graduating seniors
- Last day for departments to approve undergraduate candidacy for FA 23
-* 29th: Last day to apply for Spring 2024 graduation to receive priority registration
+___
 
-**October:**
-* 18th: Last day for undergraduate students to pay $115 graduation fee for Fall 2023
-* 30th: Last day to receive a pro-rated refund from withdrawn classes
-
-**November:**
-* 15th: Last day to submit withdrawal request with “W” grade for non-medical reason.
-
-**December:**
-* 6th: Last day to submit a withdrawal request with “W” grade for medical reasons
 
 ## Academic integrity
 Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:
