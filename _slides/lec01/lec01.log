@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.16)  19 AUG 2025 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.16)  19 AUG 2025 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1824,14 +1824,14 @@ Overfull \vbox (0.8034pt too high) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `lec01.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 390.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 390.
  (./lec01.aux
 <Reading QR code for "https://padlet.com/williamrileycasper/conjectures-for-los
 ing-positions-33ai54j4kifc9hx6" at level 6-M from aux file.>
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 390.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 390.
 Package rerunfilecheck Info: File `lec01.out' has not changed.
 (rerunfilecheck)             Checksum: 3432007258E65681F63A6654B228C307;288.
  ) 
@@ -1850,7 +1850,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist
 /type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
 elvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr
 o8a.pfb>
-Output written on lec01.pdf (91 pages, 317322 bytes).
+Output written on lec01.pdf (91 pages, 317383 bytes).
 PDF statistics:
  3014 PDF objects out of 3580 (max. 8388607)
  2868 compressed objects within 29 object streams
