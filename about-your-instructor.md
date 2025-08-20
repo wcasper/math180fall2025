@@ -13,11 +13,10 @@ permalink: /instructor/
 ### About Me
 I obtained concurrently a B.S. in Mathematics, a B.S. in Physics, and a M.S. in Mathematics from North Dakota State University in 2010.  Following this, I did a stint at Los Alamos National Lab (LANL) as a post-baccalaureate researcher before continuing on to a graduate program at the University of Washington in Seattle (UW), while continuing research at LANL during summers.  After obtaining my Ph.D. in Mathematics from UW in 2017, I spent three years as a post-doc at Louisiana State University and joined CSUF in 2020.
 
-
-
 My research focuses on applications of algebra and algebraic geometry to various problems in pure and applied mathematics. Specific research interests include orthogonal polynomials, integrable systems, spectral theory of integral and differential operators, and noncommutative crepant resolutions. Additionally, my research includes work in computational fluid dynamics and high performance computing.
 
-### Past/Current Research Projects with Students (as of 2021)
+### Past/Current Research Projects with Students (as of 2025)
+* Determining a rational-valued function from its moments
 * Using genetic algorithms to identify exponential sums
 * Exploring maximal cliques in derangement graphs with connections to orthogonal Latin squares
 * Determinants of special matrices related to Vandermonde matrices
@@ -25,8 +24,9 @@ My research focuses on applications of algebra and algebraic geometry to various
 * Exploring exact equations and recurrence relations for matrix-valued Chebyshev-type polynomials
 * Solving Battleship puzzle problems using discrete tomography and quantum computing
 
-### My Publications (as of 2024)
+### My Publications (as of 2025)
 
+* [Pascal's Matrix, Point Counting on Elliptic Curves and Prolate Spheroidal Functions](https://arxiv.org/abs/2508.08494) <br/> (submitted)
 * [The Pascal Matrix, Commuting Tridiagonal Operators and Fourier Algebras](https://arxiv.org/abs/2407.21680) <br/> (submitted)
 * [The restricted discrete Fourier transform](https://arxiv.org/abs/2407.20379) <br/> (submitted)
 * [Disconnected Cliques in Derangement Graphs](https://arxiv.org/abs/2407.14155) <br/> (submitted)
