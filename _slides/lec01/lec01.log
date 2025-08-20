@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.16)  19 AUG 2025 23:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.16)  19 AUG 2025 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1832,44 +1832,28 @@ ing-positions-33ai54j4kifc9hx6" at level 6-M from aux file.>
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
-
-
-Package rerunfilecheck Warning: File `lec01.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `lec01.out':
-(rerunfilecheck)             Before: E91991D56ED3EEC7DDA4DDEA6D6FD851;288
-(rerunfilecheck)             After:  3432007258E65681F63A6654B228C307;288.
+Package rerunfilecheck Info: File `lec01.out' has not changed.
+(rerunfilecheck)             Checksum: 3432007258E65681F63A6654B228C307;288.
  ) 
 Here is how much of TeX's memory you used:
- 19977 strings out of 494847
- 363845 string characters out of 6179079
+ 19974 strings out of 494847
+ 363800 string characters out of 6179079
  528178 words of memory out of 5000000
  22655 multiletter control sequences out of 15000+600000
  32006 words of font info for 49 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  56i,19n,65p,1934b,736s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Outline0.1.4.21} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.3.16} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.2.12} has been referenced but does not e
-xist, replaced by a fixed one
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
-vetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8
-a.pfb>
-Output written on lec01.pdf (91 pages, 317135 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
+elvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr
+o8a.pfb>
+Output written on lec01.pdf (91 pages, 317322 bytes).
 PDF statistics:
- 3017 PDF objects out of 3580 (max. 8388607)
- 2871 compressed objects within 29 object streams
- 191 named destinations out of 1000 (max. 500000)
+ 3014 PDF objects out of 3580 (max. 8388607)
+ 2868 compressed objects within 29 object streams
+ 188 named destinations out of 1000 (max. 500000)
  143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
