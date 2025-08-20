@@ -114,7 +114,7 @@ If you are unable to attend enough seminars due to things like scheduling issues
 This request should happen as early as possible, and in particular requests occuring in the last few weeks of class which appear to be about procrastination will be viewed disfavorably.
 
 **Research:**
-As part of this class, you will be responsible for conducting and presenting a **research project** where you try to answer some question that nobody knows the answer to yet.  It can be inspired by a project we do in class, or by some of your interests outside of class.  This project will culminate in the creation of a research poster that you will use to present your work in a class-wide poster session.
+As part of this class, you will be responsible for conducting and presenting a **research project** where you try to answer some question that nobody knows the answer to yet.  It can be inspired by a project we do in class, or by some of your interests outside of class.  This project will culminate in a research presentation during the final week of class
 
 ___
 
