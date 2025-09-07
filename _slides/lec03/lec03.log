@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.16)  3 SEP 2025 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.16)  6 SEP 2025 23:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1474,8 +1474,15 @@ ing-positions-33ai54j4kifc9hx6" at level 6-M from aux file.>
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 484.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 484.
-Package rerunfilecheck Info: File `lec03.out' has not changed.
-(rerunfilecheck)             Checksum: 1B32FE3D3550AE647627E6BCA3FCDF8F;231.
+
+
+Package rerunfilecheck Warning: File `lec03.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `lec03.out':
+(rerunfilecheck)             Before: 1B32FE3D3550AE647627E6BCA3FCDF8F;231
+(rerunfilecheck)             After:  BF9EF5F3610FD4A65F3D9AE3CB98A5FD;231.
  ) 
 Here is how much of TeX's memory you used:
  20165 strings out of 494847
