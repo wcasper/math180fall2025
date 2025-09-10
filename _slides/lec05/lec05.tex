@@ -145,18 +145,23 @@
   \end{center}
   \begin{block}{Activity (30 minutes)}
     \begin{itemize}
+\pause
       \item review the rules of Battleship
+\pause
       \item split into pairs and play some games!
+\pause
       \item can you observe any useful strategies?
     \end{itemize}
   \end{block}
 \end{frame}
 
 \begin{frame}{Battleship Discussion}
+\pause
   \begin{block}{Question 1}
     How does the game Battleship differ from other games we have played in this class.
     How is it similar?
   \end{block}
+\pause
   \begin{block}{Question 2}
     What mathematical tools could be useful in exploring the game Battleship?
   \end{block}
@@ -168,8 +173,11 @@
   \begin{block}{Vocabulary}
     In \textbf{probability theory} we study \textbf{experiments}, like flipping a coin, rolling a die, or drawing a card.\\
     \begin{itemize}
+\pause
       \item the set $\Omega$ of all possible outcomes is the \textbf{sample space}
+\pause
       \item subsets $E\subseteq \Omega$ are called \textbf{events}
+\pause
       \item the \textbf{probability} of an event $E$ is
       $$\mathbb{P}(E) = \frac{|E|}{|\Omega|}$$
     \end{itemize}
@@ -181,8 +189,10 @@
     Experiment: roll a six-sided die, the sample space is:
     $$\Omega = \{1,2,3,4,5,6\}$$
     \begin{itemize}
+\pause
       \item the event of ``getting a 3" is $\{3\}$
       $$\mathbb{P}(\{3\}) = \frac{|\{3\}|}{|\Omega|} = \frac{1}{6}.$$
+\pause
       \item the event of ``getting an even number" is $\{2,4,6\}$
       $$\mathbb{P}(\{2,4,6\}) = \frac{|\{2,4,6\}|}{|\Omega|} = \frac{3}{6} = \frac{1}{2}.$$
     \end{itemize}
@@ -193,11 +203,17 @@
   \begin{block}{Drawing a Card}
     Experiment: draw a card from a standard deck
     \begin{itemize}
+\pause
       \item what is the sample space?
+\pause
         $$\Omega = \{(2,\heartsuit),(3,\heartsuit),(4,\heartsuit),\dots,(K,\clubsuit),(A,\clubsuit)\}$$
+\pause
       \item what is the event "getting a face card in hearts"?
+\pause
         $$E = \{(J,\heartsuit),(Q,\heartsuit),(K,\heartsuit)\}$$
+\pause
       \item what is the probability of this event?
+\pause
         $$\mathbb{P}(E) = \frac{|E|}{|\Omega|} = \frac{3}{52}.$$
     \end{itemize}
   \end{block}
@@ -206,9 +222,13 @@
 \begin{frame}{Probability Meaning}
   \begin{block}{Real-world interpretation}
     \begin{itemize}
+\pause
       \item perform the same experiment a thousand times
+\pause
       \item record how many times the outcome is in $E$
+\pause
       \item the fraction of times the outcome is in $E$ should be close to $\mathbb P(E)$
+\pause
       \item more experiments -> closer to $\mathbb P(E)$
     \end{itemize}
   \end{block}
@@ -222,6 +242,7 @@
       \item how many times the outcome is even
     \end{itemize}
   \end{block}
+\pause
   \begin{block}{Gather the data}
     Add up the results in your group and be prepared to share!
   \end{block}
@@ -231,9 +252,12 @@
   \begin{block}{Vocabulary}
     A \textbf{value function} $f(x)$ assigns a value to each possible outcome of an experiment
   \end{block}
+\pause
   \begin{block}{Examples}
     \begin{itemize}
+\pause
       \item how much money we win/lose in a bet
+\pause
       \item the position of a random walker
     \end{itemize}
   \end{block}
@@ -242,10 +266,12 @@
 \begin{frame}{Expectation Value}
   Start with a sample space
   $$\Omega = \{a_1,a_2,a_3,\dots, a_n\}.$$
+\pause
   \begin{block}{Vocabulary}
     A \textbf{expectation value} of a \textbf{value function} $f(x)$ is
     $$\mathbb{E}(f) = f(a_1)\mathbb P(\{a_1\}) + f(a_2)\mathbb P(\{a_2\}) + \dots + f(a_n)\mathbb P(\{a_n\})$$
   \end{block}
+\pause
   \begin{block}{Meaning}
     Represents the average value we obtain if we do thousands of experiments
   \end{block}
@@ -256,10 +282,13 @@
   \begin{block}{Gambling with dice}
     Suppose we play a game where we roll a die.  If the outcome is a $6$, then we win $4$ dollars.  Otherwise, we lose a dollar.\\
     \begin{itemize}
+\pause
       \item value function
       $$f(1) = -1,\ f(2) = -1,\ f(3) = -1,\ f(4) = -1,\ f(5) = -1,\ f(6) = 4.$$
+\pause
       \item expectation value
       $$\mathbb{E}(f) = (-1)\cdot \frac{1}{6} + (-1)\cdot \frac{1}{6} + (-1)\cdot \frac{1}{6} + (-1)\cdot \frac{1}{6} + (-1)\cdot \frac{1}{6} + 4\cdot \frac{1}{6} = \frac{-1}{6}$$
+\pause
       \item if we play a thousand games, we'll lose an average of $17$ cents per game or about $166.67$ dollars total.
     \end{itemize}
   \end{block}
@@ -267,9 +296,11 @@
 
 \begin{frame}{Expectations in Battleship}
 Suppose we play mini-Battleship on a $5\times 5$ board, with a single $2\times 1$ destroyer which is placed randomly.
+\pause
 \begin{block}[Question 1]
 How many things are in the sample space?
 \end{block}
+\pause
 \begin{block}[Question 2]
 What is the probability of a ship being in each spot?
 \end{block}
@@ -277,9 +308,11 @@ What is the probability of a ship being in each spot?
 
 \begin{frame}{Expectations in Battleship}
 Suppose we play mini-Battleship on a $5\times 5$ board, with a single $3\times 1$ submarine which is placed randomly.
+\pause
 \begin{block}[Question 3]
 How many things are in the sample space?
 \end{block}
+\pause
 \begin{block}[Question 4]
 What is the probability of a ship being in each spot?
 \end{block}
@@ -287,6 +320,7 @@ What is the probability of a ship being in each spot?
 
 \begin{frame}{Expectations in Battleship}
 Suppose we take our first shot at the center and we miss.
+\pause
 \begin{block}[Question 5]
 How do the probabilities change?
 \end{block}
