@@ -68,6 +68,8 @@ collections:
     output: true
   slides:
     output: true
+  code:
+    output: true
 
 
 #MathJax = {
