@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.16)  14 SEP 2025 19:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.16)  15 SEP 2025 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1345,18 +1345,18 @@ osing-positions-33ai54j4kifc9hx6" in version 0-M.>
 
 ] [22
 
-] (./lec06.toc) [23
+] [23
 
 ] [24
 
-]
-[25
+] [25
 
 ] [26
 
 ] [27
 
-] [28
+]
+[28
 
 ] [29
 
@@ -1365,6 +1365,45 @@ osing-positions-33ai54j4kifc9hx6" in version 0-M.>
 ] [31
 
 ] [32
+
+] [33
+
+] [34
+
+] [35
+
+] [36
+
+] [37
+
+] [38
+
+] [39
+
+] [40
+
+] [41
+
+]
+(./lec06.toc) [42
+
+] [43
+
+] [44
+
+] [45
+
+] [46
+
+] [47
+
+] [48
+
+] [49
+
+] [50
+
+] [51
 
 ]
 \tf@nav=\write6
@@ -1376,35 +1415,45 @@ osing-positions-33ai54j4kifc9hx6" in version 0-M.>
 \tf@snm=\write8
 \openout8 = `lec06.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 316.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 316.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 335.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 335.
  (./lec06.aux
 <Reading QR code for "https://padlet.com/williamrileycasper/conjectures-for-los
 ing-positions-33ai54j4kifc9hx6" at level 6-M from aux file.>
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 316.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 316.
-Package rerunfilecheck Info: File `lec06.out' has not changed.
-(rerunfilecheck)             Checksum: 4CC2FF945B86F4A5F597EAE6038BC38E;252.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 335.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 335.
+
+
+Package rerunfilecheck Warning: File `lec06.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `lec06.out':
+(rerunfilecheck)             Before: 4CC2FF945B86F4A5F597EAE6038BC38E;252
+(rerunfilecheck)             After:  8FA94DD34A2F9D2C424F668B17322548;252.
  ) 
 Here is how much of TeX's memory you used:
- 20138 strings out of 494847
- 368976 string characters out of 6179079
+ 20177 strings out of 494847
+ 369352 string characters out of 6179079
  529190 words of memory out of 5000000
  22922 multiletter control sequences out of 15000+600000
  37703 words of font info for 56 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 56i,19n,65p,1934b,834s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helveti
-c/uhvro8a.pfb>
-Output written on lec06.pdf (32 pages, 137837 bytes).
+ 56i,19n,65p,1934b,850s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Outline0.1.3.23} has been referenced but does not
+ exist, replaced by a fixed one
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
+rw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
+uhvro8a.pfb>
+Output written on lec06.pdf (51 pages, 190893 bytes).
 PDF statistics:
- 1081 PDF objects out of 1200 (max. 8388607)
- 1013 compressed objects within 11 object streams
- 69 named destinations out of 1000 (max. 500000)
+ 1669 PDF objects out of 1728 (max. 8388607)
+ 1577 compressed objects within 16 object streams
+ 108 named destinations out of 1000 (max. 500000)
  135 words of extra memory for PDF output out of 10000 (max. 10000000)
 
