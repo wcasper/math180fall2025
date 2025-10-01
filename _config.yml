@@ -70,6 +70,9 @@ collections:
     output: true
   code:
     output: true
+  inclass:
+    output: true
+
 
 
 #MathJax = {
