@@ -26,7 +26,7 @@ In this problem, suppose you start a game of Sprouts with $$n$$ seeds and that a
 
 a) Find a formula in terms of $$n$$ and $$p$$ for the total number of seeds at the end of the game.
 
-b) Find a formula in terms of $$n$$ and $$p$$ for the total number of sprouts at the end of the game.
+b) Find a formula in terms of $$n$$ and $$p$$ for the total number of sprout-segments (edges in the graph) at the end of the game.
 
 c) If $$n=8$$, what is the largest value that you can make $$p$$ be?
 
