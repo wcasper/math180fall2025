@@ -39,7 +39,7 @@ $$\begin{array}{|c|c|c|c|c|c|c|}
 \bullet & \quad & \circ & \circ & \bullet & \quad &\quad \\\hline
 \end{array}.$$
 
-It's White's move.  Carefully write down a strategy that they can use to win, regardless of what moves their opponent makes.
+It's White's move.  Carefully write down a strategy that Black can use to win, regardless of what moves their opponent makes.
 
 ### Problem 4
 
