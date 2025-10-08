@@ -36,8 +36,11 @@ At the end of a game of Sprouts, players have created what is called a **planar 
 
 a) Is it possible for the final network in your game to be disconnected?  What is the most connected components you can make at the end?
 
+Note: a **disconnected** graph is one which comes in multiple pieces that aren't connected to each other by any edges.
+
 b) Find a relationship between $$n$$ and $$p$$ from Problem 2 and the number of regions enclosed by your planar graph.  Does it depend on the number of components?
 
+Note: a **component** of a graph is a piece of the graph that is connected together.  In particular, if the graph is connected, it only has one component.
 
 
 
