@@ -31,7 +31,7 @@ $$\begin{array}{|c|c|c|c|c|c|c|}
   & & \circ & \circ & & &\\\hline
   & & \circ & \circ & & &\\\hline
 \bullet & & \bullet & \bullet& \bullet & &\\\hline
-\bullet & & \circ & \circ & \bullet & &\\\hline
+\bullet & \quad & \circ & \circ & \bullet & \quad &\quad \\\hline
 \end{array}.$$
 
 
