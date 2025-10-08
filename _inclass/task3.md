@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Task 2
+title: Task 3
 permalink: /inclass/task3
 ---
 
@@ -24,15 +24,15 @@ c) What are all the possible states of the board after you both have taken three
 
 Consider the following Connect 4 board state:
 
-$$\begin{tabular}{|c|c|c|c|c|c|c|}
+$$\begin{array}{|c|c|c|c|c|c|c|}
   & & & & & &\\\hline
   & & & \bullet & & &\\\hline
   & & & \circ & & &\\\hline
   & & \circ & \circ & & &\\\hline
   & & \circ & \circ & & &\\\hline
-\bullet & & \bullet & \bullet& \bullet &\\\hline
-\bullet & & \circ & \circ & \bullet &\\\hline
-\end{tabular}.$$
+\bullet & & \bullet & \bullet& \bullet & &\\\hline
+\bullet & & \circ & \circ & \bullet & &\\\hline
+\end{array}.$$
 
 
 
