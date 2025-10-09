@@ -11,6 +11,7 @@ Note that ALL solutions should come with an explanation!
 ### Problem 1 
 
 Suppose you are playing Connect 4 with a friend.
+For simplicity, ignore turn order so that both players could take all their turns whenever.
 
 a) What are all the possible states of the board after you both have taken one turn?
 
@@ -21,6 +22,8 @@ c) What are all the possible states of the board after you both have taken three
 ### Problem 2
 
 Suppose you are playing Connect 4 with a friend.
+For simplicity, ignore turn order so that both players could take all their turns whenever.
+
 What are all the possible states of the board after both of you have taken four turns, assuming neither player has won?
 
 ### Problem 3
