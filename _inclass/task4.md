@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ready Set Bet In-class Homework
-permalink: /modules/ready-set-bet/homework
+title: Task 4
+permalink: /inclass/task4
 ---
 
 
