@@ -72,6 +72,8 @@ collections:
     output: true
   inclass:
     output: true
+  research:
+    output: true
 
 
 
