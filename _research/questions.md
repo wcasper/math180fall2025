@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Questions
-permalink: /modules/research/questions
+permalink: /research/questions
 ---
 
 ## What is a good research question
