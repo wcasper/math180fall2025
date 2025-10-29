@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Introduction
-permalink: /modules/research/introduction
+permalink: /research/introduction
 ---
 
 ## Introduction
