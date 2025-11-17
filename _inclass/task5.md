@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Task 5
-permalink: /modules/axioms/task5
+permalink: /inclass/task5
 ---
 
 ## Peano Axioms
